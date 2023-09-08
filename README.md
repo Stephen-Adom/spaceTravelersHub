@@ -25,7 +25,7 @@
 
 # 📖 [Space Traveler's Hub] <a name="about-project"></a>
 
-Space Traveler's Hub is an application that provides commercial and scientific space travel services. The application allow users to book rockets and join selected space missions.
+Space Traveler's Hub is an application that provides commercial and scientific space travel services. The application allows users to book rockets and join selected space missions.
 
 ## 🛠 Built With <a name="built-with"></a>
 
